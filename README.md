@@ -10,7 +10,7 @@ A simple CRUD application created as the final project of the "Web Application D
 
 ## ⚙️ Technologies Used
 
-- Python 3.10
+- Python
 - SQLite
 - HTML
 - DB Browser for SQLite
@@ -19,8 +19,8 @@ A simple CRUD application created as the final project of the "Web Application D
 
 1. Clone the repository:
 2. Open the project folder in your IDE
-3. Run `main.py` using Python 3.10 or higher
-4. Follow the instructions in the console or browser (if applicable)
+3. Run `main.py` using Python
+4. Follow the instructions in the console or browser
 
 ## 🧪 Testing
 
